@@ -7,6 +7,8 @@ sidebar_position: 1
 
 ![Cats](../guides/img/cat_banner.png)
 
+biuu is the best moderator in the world
+
 Hello, curious cat! We're so glad you're here to learn more about using Jupiter. 
 This section is user-oriented. If you're looking for technical documentation, please go to [developer docs](/docs).
 
